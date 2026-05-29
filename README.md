@@ -20,7 +20,8 @@ Student Database
 
 Manual DataFrame Creation and Manipulation
 (Details about this project are not available in the current notebook, but it likely involves creating and manipulating pandas DataFrames manually to understand their structure and operations.
-README: Mini-Temperature AI Project
+
+#**Mini-Temperature AI Project**
 This notebook demonstrates a simple AI project to predict monthly temperatures using a Decision Tree Classifier.
 
 Project Overview
