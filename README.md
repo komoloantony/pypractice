@@ -20,3 +20,19 @@ Student Database
 
 Manual DataFrame Creation and Manipulation
 (Details about this project are not available in the current notebook, but it likely involves creating and manipulating pandas DataFrames manually to understand their structure and operations.
+README: Mini-Temperature AI Project
+This notebook demonstrates a simple AI project to predict monthly temperatures using a Decision Tree Classifier.
+
+Project Overview
+The goal of this project is to build a basic model that can predict whether the temperature for a given month is 'high' or 'low' based on historical temperature data.
+
+Data
+The dataset consists of:
+
+Months: An integer representing the month of the year (1-12).
+Temperature: The corresponding temperature for that month.
+Model
+A DecisionTreeClassifier from the sklearn library is used to train the model. The 'Months' are used as input features (X), and 'Temperature' is the target variable (y).
+
+Usage
+The notebook allows you to input a month (1-12) and get a prediction for its temperature. It will also classify the temperature as 'high' (>= 25 degrees) or 'low' (< 25 degrees).
